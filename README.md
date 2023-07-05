@@ -1,1 +1,1 @@
-This repository will house the database exervises related to SQL and RDBMS.
+This repository will house the database exercises related to SQL and RDBMS.
